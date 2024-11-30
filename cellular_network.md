@@ -35,3 +35,6 @@ exploring its components, functionality, history, advantages, and comparisons to
 
 - Myself
   - Cellular network. คือ เครือข่ายการสื่อสายที่ไร้สาย ที่แบ่งพื้นที่บริการออกเป็นสัดส่วน แต่ละส่วนจะมี Base station สำหร้บเชื่อมต่อและส่งสัญญาณไปยังอุปกรณ์ต่างๆ
+- ใช้ในชีวิตประจำวัน
+  - เชื่อมต่อ Internet 5G การโทร ข้อความ Youtube Facebook
+
