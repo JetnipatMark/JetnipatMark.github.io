@@ -14,7 +14,8 @@ known as a cell site or base station.
   - เครือข่ายวิทยุที่กระจายอยู่ทั่วพื้นที่เรียกว่าเซลล์
 โดยแต่ละเซลล์มีเครื่องส่งสัญญาณอย่างน้อยหนึ่งเครื่องในตำแหน่งคงที่ เรียกว่าสถานีฐานหรือไซต์เซลล์
 
-- Cellular networks are the invisible threads that keep us tied together,
+- [pbeaxell](https://pbeaxell.com/about/glossary/what-is-a-cellular-network)
+  - Cellular networks are the invisible threads that keep us tied together,
 enabling us to digitally communicate, share information, and access services with unprecedented ease.
 Making phone calls, streaming videos, or sending an SMS text message relies on a cellular network.
 But what exactly are cellular networks?
