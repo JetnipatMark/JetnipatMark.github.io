@@ -1,6 +1,6 @@
 duplicate data
 
-- [Source]([https://www.techtarget.com/searchdatamanagement/definition/data-silo](https://atlan.com/data-quality-problems/))
+- [Source](https://atlan.com/data-quality-problems/)
   - Duplicate data arises when identical records or entries are present in a dataset. This can result from data entry errors, system glitches, or issues during data integration. Duplicate data can lead to redundancy, increased storage costs, and misinterpretation of information if not properly identified and managed. De-duplication processes, data cleansing, and the implementation of unique identifiers can help address this issue.
 
 - Chat GPT
