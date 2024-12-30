@@ -11,4 +11,4 @@
 [E-Card](e-card.md)
 
 
-[Data-silos](data-silos.md)
+[Data-silos](duplicate-data.md)
