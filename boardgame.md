@@ -15,3 +15,10 @@
  - ### Youtube!!!
 [![boardgame6](images/boardgame6.jpg)](https://www.youtube.com/watch?v=0B2iD-YyFcw)
  - ### -Members-
+1.[Kittithorn](https://kitty340822.github.io/boardgame)
+2.[Panyawat](https://top123321.github.io/boardgame)
+3.[Jetnipat](https://jetnipatmark.github.io/boardgame)
+4.[Kasidit](https://kasidit1647.github.io/boardgame)
+5.[Suraphak](https://titigerherb.github.io/boardgame)
+6.[Purin](https://phaipy.github.io/boardgame)
+7.[Phuriphat](https://prxsss.github.io/boardgame)
