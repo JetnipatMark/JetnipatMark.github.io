@@ -7,4 +7,8 @@
    - นักศึกษาปี 3 คณะวิทยาการจัดการ สาขาบัญชี
    - จำนวน 3 คน
    - staff 2 คน
-![boardgame1](images/NewYear.png)
+![boardgame1](images/boardgame1.jpg)
+![boardgame2](images/boardgame2.jpg)
+![boardgame3](images/boardgame3.jpg)
+![boardgame4](images/boardgame4.jpg)
+![boardgame5](images/boardgame5.jpg)
