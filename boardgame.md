@@ -19,12 +19,10 @@
 
 2.[Panyawat](https://top123321.github.io/boardgame)
 
-3.[Jetnipat](https://jetnipatmark.github.io/boardgame)
+3.[Kasidit](https://kasidit1647.github.io/boardgame)
 
-4.[Kasidit](https://kasidit1647.github.io/boardgame)
+4.[Suraphak](https://titigerherb.github.io/boardgame)
 
-5.[Suraphak](https://titigerherb.github.io/boardgame)
+5.[Purin](https://phaipy.github.io/boardgame)
 
-6.[Purin](https://phaipy.github.io/boardgame)
-
-7.[Phuriphat](https://prxsss.github.io/boardgame)
+6.[Phuriphat](https://prxsss.github.io/boardgame)
