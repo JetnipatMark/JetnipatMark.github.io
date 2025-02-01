@@ -14,3 +14,7 @@
 [Duplicate Data](duplicate-data.md)
 
 [Boardgame](https://jetnipatmark.github.io/boardgame)
+
+[Security-Control](https://jetnipatmark.github.io/security-control)
+
+[PAO-Elections](https://jetnipatmark.github.io/pao-elections)
