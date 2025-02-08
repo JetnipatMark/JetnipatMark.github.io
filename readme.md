@@ -18,3 +18,5 @@
 [Security-Control](https://jetnipatmark.github.io/security-control)
 
 [PAO-Elections](https://jetnipatmark.github.io/pao-elections)
+
+[Security-Requirement](https://jetnipatmark.github.io/security-requirement)
